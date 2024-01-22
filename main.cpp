@@ -1,8 +1,7 @@
-def main():
-    print ('Hello World')
+#include <iostream>
 
-if __name__ == '__main__':
-    main()
-
-
+int main()
+{
+ std::cout << "Hello World" << std::endl;
+}
              
